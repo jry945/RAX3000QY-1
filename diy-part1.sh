@@ -11,5 +11,7 @@
 #
 # Uncomment a feed source
 # sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
+# 添加 UA-Mask插件源
+git clone https://github.com/Zesuy/UA-Mask
 
 
